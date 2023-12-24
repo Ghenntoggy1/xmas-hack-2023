@@ -1,0 +1,9 @@
+[submodule "algorithm"]
+	path = algorithm
+	url = https://github.com/Ghenntoggy1/Schedule-XMAS.git
+[submodule "server"]
+	path = server
+	url = https://github.com/Ghenntoggy1/Schedule-XMAS-FAF
+[submodule "client"]
+	path = client
+	url = https://github.com/danielavornic/faf-xmas2023-front
